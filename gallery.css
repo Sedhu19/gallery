@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.tit1{
+  position:absolute;
+  width: 344px;
+  height: 88px;
+  left: 670px;
+  top: 200px;
+  font-family:'poppins';
+  font-size: 50px;
+  font-weight:900;
+  color: red;
+  }
+  .tit2{
+    position:absolute;
+    z-index:1;
+    width: 500px;
+    height: 88px;
+    left: 590px;
+    top: 430px;
+    font-family:'poppins';
+    font-size: 35px;
+    font-weight:750;
+    color:black;
+  }
+  .tit3{
+    position:absolute;
+    width: 50px;
+    height: 30px;
+    left: 680px;
+    top: 300px;
+    font-family:'poppins';
+    font-size: 18px;
+    color:black;
+    
+  }
+.img1{
+  position:absolute;
+  width: 28%;
+  left: 60px;
+  top: 550px;
+}
+.img1{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img1:hover { 
+  transform: scale(1.04); 
+  }
+.img2{
+  position:absolute;
+  width: 28%;
+  left: 555px;
+  top: 550px;
+}
+.img2{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img2:hover { 
+  transform: scale(1.04); 
+  }
+.img3{
+  position:absolute;
+  width: 28%;
+  left: 1045px;
+  top: 550px;
+}
+.img3{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img3:hover { 
+  transform: scale(1.04); 
+  }
+.img4{
+  position:absolute;
+  width: 28%;
+  left: 60px;
+  top: 880px;
+}
+.img4{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer;
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img4:hover { 
+  transform: scale(1.04); 
+  }
+.img5{
+  position:absolute;
+  width: 28%;
+  height: 283px;
+  left: 555px;
+  top: 880px;
+}
+.img5{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img5:hover { 
+  transform: scale(1.04); 
+  }
+.img6{
+  position:absolute;
+  width: 28%;
+  height:280px ;
+  left: 1045px;
+  top: 880px;
+}
+.img6{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img6:hover { 
+  transform: scale(1.04); 
+  }
+.img7{
+  position:absolute;
+  width: 29%;
+  left: 60px;
+  top: 1215px;
+}
+.img7{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img7:hover { 
+  transform: scale(1.04); 
+  }
+.img8{
+  position:absolute;
+  width: 28%;
+  left: 555px;
+  top: 1215px;
+}
+.img8{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img8:hover { 
+  transform: scale(1.04); 
+  }
+.img9{
+  position:absolute;
+  width: 29%;
+  left: 1045px;
+  top: 1215px;
+}
+.img9{ 
+  display:block; 
+  z-index:999; 
+  cursor: pointer; 
+  transition-property:all; 
+  transition-duration: 0.2s;  
+  transition-timing-function:ease; 
+  }
+  .img9:hover { 
+  transform: scale(1.04); 
+  }
+  .img10{
+    position:absolute;
+    z-index: -1;
+    top: 100px;
+    left:0px;
+    width: 1519px;
+    height: 340px;
+  }
+  .img11{
+    position:absolute;
+  width: 100%;
+  left: 0px;
+  top: 2400px;
+  }
+  .img12{
+    position:absolute;
+    width: 160px;
+    left: 2px;
+    top: 0px;
+  } 
+  .img13{
+    position:absolute;
+    width: 29%;
+    left: 1045px;
+    top: 1535px;
+  }
+  .img13{ 
+    display:block; 
+    z-index:999; 
+    cursor: pointer; 
+    transition-property:all; 
+    transition-duration: 0.2s;  
+    transition-timing-function:ease; 
+    }
+    .img13:hover { 
+    transform: scale(1.04); 
+    }
+    .img14{
+      position:absolute;
+      width: 29%;
+      left: 60px;
+      top: 1535px;
+    }
+    .img14{ 
+      display:block; 
+      z-index:999; 
+      cursor: pointer; 
+      transition-property:all; 
+      transition-duration: 0.2s;  
+      transition-timing-function:ease; 
+      }
+    .img14:hover { 
+    transform: scale(1.04); 
+    }
+      .img15{
+        position:absolute;
+        width: 29%;
+        left: 550px;
+        top: 1535px;
+      }
+      .img15{ 
+        display:block; 
+        z-index:999; 
+        cursor: pointer; 
+        transition-property:all; 
+        transition-duration: 0.2s;  
+        transition-timing-function:ease; 
+        }
+        .img15:hover { 
+        transform: scale(1.04); 
+        }
+        .img16{
+          position:absolute;
+          width: 29%;
+          left: 1045px;
+          top: 1920px;
+        }
+        .img16{ 
+          display:block; 
+          z-index:999; 
+          cursor: pointer; 
+          transition-property:all; 
+          transition-duration: 0.2s;  
+          transition-timing-function:ease; 
+          }
+          .img16:hover { 
+          transform: scale(1.04); 
+          }
+          .img17{
+            position:absolute;
+            width: 29%;
+            left: 60px;
+            top: 1920px;
+          }
+          .img17{ 
+            display:block; 
+            z-index:999; 
+            cursor: pointer; 
+            transition-property:all; 
+            transition-duration: 0.2s;  
+            transition-timing-function:ease; 
+            }
+            .img17:hover { 
+            transform: scale(1.04); 
+            }
+            .img18{
+              position:absolute;
+              width: 29%;
+              left: 550px;
+              top: 1920px;
+            }
+            .img18{ 
+              display:block; 
+              z-index:999; 
+              cursor: pointer; 
+              transition-property:all; 
+              transition-duration: 0.2s;  
+              transition-timing-function:ease; 
+              }
+              .img18:hover { 
+              transform: scale(1.04); 
+              }
